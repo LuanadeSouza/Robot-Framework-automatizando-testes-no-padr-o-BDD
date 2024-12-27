@@ -90,11 +90,5 @@ robot testes/preenchimento_correto.robot
 
 ---
 
-## Contribuições
-- **Issues:** Relate problemas ou sugestões na seção de issues do repositório.
-- **Pull Requests:** Aceitamos contribuições! Certifique-se de seguir as boas práticas de desenvolvimento e incluir testes adequados.
-
----
-
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
