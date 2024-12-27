@@ -47,7 +47,7 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/LuanadeSouza/Robot-Framework-automatizando-testes-no-padr-o-BDD/tree/master
-   cd Robot-Framework-automatizando-testes-no-padr-o-BDD
+   cd Robot Framework automatizando testes no padrao BDD
    ```
 
 2. Instale as dependências necessárias:
