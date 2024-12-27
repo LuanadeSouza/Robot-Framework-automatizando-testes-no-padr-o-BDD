@@ -1,4 +1,4 @@
-# Projeto de Testes Automatizados com Robot Framework
+# Robot Framework: automatizando testes no padrão BDD
 
 ## Descrição
 Este projeto utiliza o **Robot Framework** para automatizar o teste de um sistema web que permite a criação de "cards" atribuídos a diferentes times. A funcionalidade principal é validar os comportamentos esperados em cenários de preenchimento correto e incorreto do formulário de cadastro.
@@ -46,8 +46,8 @@ Certifique-se de ter as seguintes ferramentas instaladas:
 ### Instalação
 1. Clone este repositório:
    ```bash
-   git clone <URL-DO-REPOSITORIO>
-   cd <NOME-DO-PROJETO>
+   git clone https://github.com/LuanadeSouza/Robot-Framework-automatizando-testes-no-padr-o-BDD/tree/master
+   cd Robot-Framework-automatizando-testes-no-padr-o-BDD
    ```
 
 2. Instale as dependências necessárias:
